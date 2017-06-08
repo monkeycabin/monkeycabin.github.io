@@ -1,0 +1,14 @@
+table{
+	position: fixed;
+	bottom: 200px;
+	width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+}
+td{
+	width: 200px;
+}
+img {
+	width: 100px;
+	height: 100px;
+}
