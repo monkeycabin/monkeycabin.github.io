@@ -1,12 +1,17 @@
+div.show{
+	width: 650px;
+	height: 433px;
+	background: url('../res/images/bg.jpg') no-repeat;
+	margin: 120px auto;
+}
 table{
-	position: fixed;
-	bottom: 200px;
-	width: 1000px;
+	position: relative;
+	top: 100px;
 	text-align: center;
 	margin: 0 auto;
 }
 td{
-	width: 200px;
+	width: 375px;
 }
 img {
 	width: 100px;
