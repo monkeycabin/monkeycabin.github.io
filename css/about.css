@@ -13,7 +13,28 @@ table{
 td{
 	width: 375px;
 }
-img {
+td img {
 	width: 100px;
 	height: 100px;
+}
+
+.mask{
+	display: none;
+	position: fixed;
+	background: rgba(0,0,0,0.8);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.open{
+	display: block;
+}
+.mask img{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 430px;
+	height: 430px;
+	margin: -215px auto auto  -215px;
 }
